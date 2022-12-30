@@ -1,4 +1,4 @@
-# Automate Picking Pokemon Card Investing
+# Automated Picking Pokemon Card Investing
 
 Poke Track is a Python script that utilizes the Pokemon TCG SDK to help track whether you've made or lost money on your Pokemon Card investments. It does this by looking at the online value of each card if you were to sell versus the total cost of the card.
 
@@ -6,12 +6,13 @@ Poke Track is a Python script that utilizes the Pokemon TCG SDK to help track wh
 
 ## Getting Started
 
-1. Locally install (Docker)[www.docker.com]
-2. Create API token from (Pokemon TCG)[https://dev.pokemontcg.io/dashboard] or use Python SDK
-3. Get original spreadsheet access. Then download the new spreadsheet locally
-4. Change input and output file paths and file path names then copy run `cp .env.example .env`
-5. Run ``` docker-compose up ```
-6. Import `poke-spread-w-card_prices.csv` on your spreadsheet as a `new sheet`
-7. Copy all data from new sheet on your main sheet. Right click, paste special, paste only values.
+1. Install (Docker)[www.docker.com]
+2. Get original spreadsheet access. Then download the new spreadsheet locally
+3. Change input and output file paths and file path names then copy run `cp .env.example .env`
+4. Run ``` docker-compose up ```
+5. Import `poke-spread-w-card_prices.csv` on your spreadsheet as a `new sheet`
+6. Copy all data from new sheet onto your main sheet. Right click, paste special, paste only values.
+
+<img src="https://github.com/vverbani/poke-track/blob/main/src/spreadsheet/spreadsheet-screenshot.png" alt="Spreadsheet of Pokemon Card purchases versus online value" title="Spreadsheet of Pokemon Card purchases versus online value">
 
 *** Cards and prices shown in spreadsheet are randomized ***
