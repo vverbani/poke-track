@@ -1,15 +1,15 @@
-Pokemon Expenses,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-"** Note: Fill the below manually and then run the script to auto generate relevant information. Description (name), Card Number, Set MUST be entered! **",,,,,,,,,,,,,,,,,,,
-Description,Type,Card Number,Year,Set,Language,Purchase Date,Purchase Price,Tax,Shipping + Fees,Row Total,Online Value (TCG),Unrealized Gains,PCG 10 Value,PCG 9 Value,Sale Date,Sale Price,Realized Gains,Details,Notes
-Rotom V,Card,177,2022,Lost Origin,English,08/12/2022,$60.00,$0.00,$0.00,$60.00,43.38,-16.62,,,,,,Marketplace,-
-Rayquaza VMAX,Card,TG20,2022,Silver Tempest,English,08/12/2022,$72.00,$0.00,$0.00,$72.00,49.65,-22.35,,,,,,Marketplace,-
-Aerodactyl V,Card,180,2022,Lost Origin,English,29/12/2022,$56.00,$3.00,$5.00,$64.00,153.02,89.02,,,,,,,
-Gallade V,Card,181,2022,Lost Origin,English,29/12/2022,$0.12,$0.00,$1.00,$1.12,4.35,3.23,,,,,,,
-Giratina V,Card,186,2022,Lost Origin,English,29/12/2022,$190.10,$20.00,$40.00,$250.10,264.32,14.22,,,,,,,
-Tyranitar V,Card,155,2022,Battle Styles,English,20/12/2022,$56.00,$20.00,$10.00,$86.00,84.42,-1.58,,,,,,,
-Cheryl,Card,159,2022,Battle Styles,English,21/12/2022,$5.00,$2.00,$3.00,$10.00,10.42,0.42,,,,,,,
-Charizard V,Card,153,2022,Brilliant Stars,English,22/12/2022,$26.00,$2.00,$4.00,$32.00,48.78,16.78,,,,,,,
-Lumineon V,Card,156,2022,Brilliant Stars,English,23/12/2022,$14.00,$4.00,$5.00,$23.00,39.63,16.63,,,,,,,
-Umbreon VMAX,Card,215,2022,Evolving Skies,English,24/12/2022,$340.00,$31.00,$10.00,$381.00,592.28,211.28,,,,,,,
+Pokemon Expenses,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+"** Note: Fill the below manually and then run the script to auto generate relevant information. Description (name), Card Number, Set MUST be entered! **",,,,,,,,,,,,,,,,,,,,
+Description,Type,Card Number,Year,Set,Language,Purchase Date,Purchase Price,Tax,Shipping + Fees,Row Total,Online Value (TCG),Unrealized Gains,Average Card Price Per Set,PCG 10 Value,PCG 9 Value,Sale Date,Sale Price,Realized Gains,Details,Notes
+Rotom V,Card,177,2022,Lost Origin,English,08/12/2022,$60.00,$0.00,$0.00,$60.00,43.38,-16.62,5.24,,,,,,Marketplace,-
+Rayquaza VMAX,Card,TG20,2022,Silver Tempest,English,08/12/2022,$72.00,$0.00,$0.00,$72.00,49.65,-22.35,4.66,,,,,,Marketplace,-
+Aerodactyl V,Card,180,2022,Lost Origin,English,29/12/2022,$56.00,$3.00,$5.00,$64.00,153.02,89.02,5.24,,,,,,,
+Gallade V,Card,181,2022,Lost Origin,English,29/12/2022,$0.12,$0.00,$1.00,$1.12,4.35,3.23,5.24,,,,,,,
+Giratina V,Card,186,2022,Lost Origin,English,29/12/2022,$190.10,$20.00,$40.00,$250.10,264.32,14.22,5.24,,,,,,,
+Tyranitar V,Card,155,2022,Battle Styles,English,20/12/2022,$56.00,$20.00,$10.00,$86.00,84.42,-1.58,3.76,,,,,,,
+Cheryl,Card,159,2022,Battle Styles,English,21/12/2022,$5.00,$2.00,$3.00,$10.00,10.42,0.42,3.76,,,,,,,
+Charizard V,Card,153,2022,Brilliant Stars,English,22/12/2022,$26.00,$2.00,$4.00,$32.00,48.78,16.78,5.35,,,,,,,
+Lumineon V,Card,156,2022,Brilliant Stars,English,23/12/2022,$14.00,$4.00,$5.00,$23.00,39.63,16.63,5.35,,,,,,,
+Umbreon VMAX,Card,215,2022,Evolving Skies,English,24/12/2022,$340.00,$31.00,$10.00,$381.00,592.28,211.28,14.79,,,,,,,
