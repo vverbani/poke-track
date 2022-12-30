@@ -1,4 +1,4 @@
-# Automated Picking Pokemon Card Investing
+# Automated Pokemon Card Tracking/Investing
 
 Poke Track is a Python script that utilizes the Pokemon TCG SDK to help track whether you've made or lost money on your Pokemon Card investments. It does this by looking at the online value of each card if you were to sell versus the total cost of the card.
 
