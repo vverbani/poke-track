@@ -6,8 +6,8 @@ Poke Track is a Python script that utilizes the Pokemon TCG SDK to help track wh
 
 ## Getting Started
 
-1. Install (Docker)[www.docker.com]
-2. Get original (spreadsheet access)[https://docs.google.com/spreadsheets/d/1rnqsBE5UIo6HFaGAQSrVzzk18lFTGLS17IVE4oIB4qw/edit?usp=sharing]. Then download the new spreadsheet locally
+1. Install [Docker](www.docker.com)
+2. Get original [spreadsheet access](https://docs.google.com/spreadsheets/d/1rnqsBE5UIo6HFaGAQSrVzzk18lFTGLS17IVE4oIB4qw/edit?usp=sharing). Then download the new spreadsheet locally
 3. Change input and output file paths and file path names then copy run `cp .env.example .env`
 4. Run ``` docker-compose up ```
 5. Import `poke-spread-w-card_prices.csv` on your spreadsheet as a `new sheet`
